@@ -1,0 +1,68 @@
+{
+    "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "iphone 13",
+        "price": 1500,
+        "image": { "fields": { "file": { "url": "./images/iphone13.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "macbook pro 1tb",
+        "price": 2000,
+        "image": { "fields": { "file": { "url": "./images/macbookpro.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "auriculares edifier",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "./images/auriculares.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "alta bici",
+        "price": 60.55,
+        "image": { "fields": { "file": { "url": "./images/bicicleta.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "mouse logitech",
+        "price": 15.99,
+        "image": { "fields": { "file": { "url": "./images/mouse.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "televisor elshe",
+        "price": 55.30,
+        "image": { "fields": { "file": { "url": "./images/televisor.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "alta llanta",
+        "price": 23.99,
+        "image": { "fields": { "file": { "url": "./images/zapatilla.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "remera supreme",
+        "price": 15500,
+        "image": { "fields": { "file": { "url": "./images/remeraSupreme.jpg" } } }
+      }
+    }
+  ]
+}
